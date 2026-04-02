@@ -51,14 +51,7 @@ project-folder/
 |── PR1.xlsx
 │── README.md  
 
----
-
 ```
-## cd project-name
-
-```
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
