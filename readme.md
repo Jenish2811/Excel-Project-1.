@@ -26,7 +26,8 @@ Academic Performance, Sales Velocity, and Workforce Management.
 -🛠 Easy customization and scalability
 
 ---
-🛠 Tech Stack
+
+## 🛠 Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
 
@@ -66,7 +67,7 @@ git clone https://github.com/your-username/project-name.git
 ```
 ---
 
- 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!  
 Feel free to fork this repo and submit a pull request.
