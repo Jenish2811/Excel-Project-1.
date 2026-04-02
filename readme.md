@@ -53,14 +53,6 @@ project-folder/
 
 ---
 
-## ⚙️ Installation
-
-1. Clone the repository:
-```
-git clone https://github.com/your-username/project-name.git
-```
-
-2. Open the folder:
 ```
 ## cd project-name
 
