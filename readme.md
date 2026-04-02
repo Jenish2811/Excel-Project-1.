@@ -37,7 +37,7 @@
 ```
 project-folder/
 |── PR1.xlsx
-│── README.md  
+│── readme.md  
 
 ---
 
