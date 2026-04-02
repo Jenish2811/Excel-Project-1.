@@ -8,7 +8,7 @@ Academic Performance, Sales Velocity, and Workforce Management.
 ---
 
 ## 🚀 Features
-
+```
 -✨ User-friendly interface
 
 -⚡ Fast and responsive performance
@@ -24,17 +24,16 @@ Academic Performance, Sales Velocity, and Workforce Management.
 -🌐 Cross-platform compatibility
 
 -🛠 Easy customization and scalability
-
----
+```
 
 ## 🛠 Tech Stack
-
+```
 - Frontend: HTML, CSS, JavaScript
 
 - Backend: (e.g., Node.js / Python / Java)
 
 - Database: (e.g., MySQL / MongoDB)
-
+```
 ---
 
 ## 📸 Preview
