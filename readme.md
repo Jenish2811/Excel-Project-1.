@@ -38,7 +38,7 @@ Academic Performance, Sales Velocity, and Workforce Management.
 
 ## 📸 Preview
 
-screenshot(Dashboard.png)
+![screenshot](Dashboard.png)
 
 
 ## 📂 Project Structure
