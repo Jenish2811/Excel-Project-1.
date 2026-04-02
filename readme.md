@@ -28,9 +28,9 @@ Academic Performance, Sales Velocity, and Workforce Management.
 ---
 🛠 Tech Stack
 
--Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript
 
--Backend: (e.g., Node.js / Python / Java)
+- Backend: (e.g., Node.js / Python / Java)
 
 - Database: (e.g., MySQL / MongoDB)
 
@@ -39,6 +39,8 @@ Academic Performance, Sales Velocity, and Workforce Management.
 ## 📸 Preview
 
 ![screenshot](Dashboard.png)
+![screenshot](Photo.png)
+
 
 
 ## 📂 Project Structure
