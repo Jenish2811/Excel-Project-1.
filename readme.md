@@ -26,7 +26,7 @@
 🛠 Tech Stack
 -Frontend: HTML, CSS, JavaScript
 
--Backend: (e.g., Node.js / Python / Java)
+- Backend: (e.g., Node.js / Python / Java)
 
 - Database: (e.g., MySQL / MongoDB)
 
